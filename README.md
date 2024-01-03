@@ -1,5 +1,15 @@
 <img width="820" alt="68747470733a2f2f692e6962622e636f2f356a78424b70772f696d6167652e706e67" src="https://github.com/MariaBonkova/gerich_restorant/assets/120118418/bf87900a-e343-4bb8-8fdc-dd954110e8a5">
 
+This is a code repository, where I practice using React.
+Alongside building the website, I use:
+
+React Functional components and their reusability
+React file and folder structure
+Fundamental CSS properties to master flex & grid
+Fundamentals of the CSS BEM Model
+From soft and pleasant animations to complex gradients
+Perfectly placed media queries for satisfactory responsiveness covering almost devices
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
