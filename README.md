@@ -1,4 +1,4 @@
-<img width="320" alt="68747470733a2f2f692e6962622e636f2f356a78424b70772f696d6167652e706e67" src="https://github.com/MariaBonkova/gerich_restorant/assets/120118418/bf87900a-e343-4bb8-8fdc-dd954110e8a5">
+<img width="520" alt="68747470733a2f2f692e6962622e636f2f356a78424b70772f696d6167652e706e67" src="https://github.com/MariaBonkova/gerich_restorant/assets/120118418/bf87900a-e343-4bb8-8fdc-dd954110e8a5">
 
 # Getting Started with Create React App
 
