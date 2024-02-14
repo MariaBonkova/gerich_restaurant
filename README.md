@@ -1,8 +1,8 @@
-src="https://github.com/MariaBonkova/gerich_restorant/assets/120118418/bf87900a-e343-4bb8-8fdc-dd954110e8a5">
-
-<img width="820" alt="68747470733a2f2f692e6962622e636f2f356a78424b70772f696d6167652e706e67" 
 
 https://gerich-restaurant-blue.vercel.app/
+
+<img width="820" alt="68747470733a2f2f692e6962622e636f2f356a78424b70772f696d6167652e706e67" 
+src="https://github.com/MariaBonkova/gerich_restorant/assets/120118418/bf87900a-e343-4bb8-8fdc-dd954110e8a5">
 
 This is a code repository, where I practice using React.
 Alongside building the website, I use:
